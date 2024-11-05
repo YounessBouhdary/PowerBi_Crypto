@@ -1,2 +1,2 @@
-# PowerBi_Crypto
-CRYPTO PULSE - Real-time Market Analytics Dashboard
+# PowerBi_blockchain
+Real-time Market Analytics Dashboard
